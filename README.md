@@ -1,4 +1,4 @@
-<!--
+
 **Eai, Meu nome é Alexsander Marçal da Silva, sou Apaixonado por tecnologia e grande entusiasta da area de desenvolvimento, atualmente me focando em JS react/react native.
 
 <div align="center">
@@ -21,4 +21,4 @@
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
 </div>
--->
+
