@@ -5,7 +5,7 @@
 </div>
   <h4>Algumas das tecnologias que conheço ou estou estudando:</h4>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,php,js,html,css,mysql" />
+    <img src="https://skillicons.dev/icons?i=php,js,html,css,mysql,git" />
   </a>
 </div>
     
