@@ -1,5 +1,5 @@
 
-## Olá, Meu nome é Alexsander, sou estudante de Sistemas de Informação. e atualmente estou me especializando em C# com ASP.Net, .Net, e Unity!!!!
+## Oi, eu sou o Alex!
 
 <div align="center">
   <a href="https://github.com/oaleekis">
@@ -7,10 +7,11 @@
  
 <div style="display: inline_block"><br>
    <h4>Algumas das tecnologias que conheço ou estou estudando:</h4>
-   <img align="center" alt="alex-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/csharp.svg">
-  <img align="center" alt="alex-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="alex-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="alex-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+ <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,php,js,html,css,mysql" />
+  </a>
+</p>
   
   
 </div>
