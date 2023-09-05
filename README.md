@@ -5,7 +5,7 @@
   <a href="https://github.com/oaleekis">
 </div>
  
-<div style="display: inline_block"><br>
+<div style="display: inline_block; align-itens:center;"><br>
    <h4>Algumas das tecnologias que conheço ou estou estudando:</h4>
  <p align="center">
   <a href="https://skillicons.dev">
