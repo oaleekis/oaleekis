@@ -3,7 +3,7 @@
 <div align="center">
   <a href="https://github.com/oaleekis">
 </div>
-  <h4>Algumas das tecnologias que conheço ou estou estudando:</h4>
+  <h4>Principais tecnologias que conheço:</h4>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=php,js,html,css,mysql,git" />
   </a>
