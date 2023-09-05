@@ -6,8 +6,9 @@
 </div>
  
 <div style="display: inline_block; align-itens:center;"><br>
-   <h4>Algumas das tecnologias que conheço ou estou estudando:</h4>
+   
  <p align="center">
+   <h4>Algumas das tecnologias que conheço ou estou estudando:</h4>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,php,js,html,css,mysql" />
   </a>
