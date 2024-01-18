@@ -2,8 +2,8 @@
     <h1>👋 Olá, sou Alex.  </h1>
     <p>Um apaixonado desenvolvedor com um toque de criatividade e uma pitada de inovação. 💻</p>
     <p>🚀 Minha jornada no mundo do desenvolvimento começou com um fascínio pela criação de Jogos. Com dedicação e aprendizado contínuo, estou empolgado em compartilhar meu conhecimento com vocês!</p>
+    <p> Minha jornada me levou a explorar o mundo da programação de jogos, onde adquiri experiência em C# e Unity. Se você é um entusiasta de jogos ou está procurando alguém para trabalhar em projetos emocionantes, estou aqui!!</p>
     <p>🌐 Como desenvolvedor full stack, trago habilidades em PHP, JavaScript, HTML e CSS, capaz de construir aplicativos e websites que combinam funcionalidade e estética. Gosto de desafios e estou sempre em busca das melhores práticas e das mais recentes tendências no mundo do desenvolvimento web.</p>
-    <p> Além disso, minha jornada me levou a explorar o mundo da programação de jogos, onde adquiri experiência em C# e Unity. Se você é um entusiasta de jogos ou está procurando alguém para trabalhar em projetos emocionantes, estou aqui!!</p>
 </div>
 <div>
     <h2>Vamos construir algo incrível juntos! 🤝</h2>
@@ -20,7 +20,7 @@
 </div>
 <div style="display: inline_block"><br>
     <h2>Tecnologias que conheço:</h2>
-    <img src="https://skillicons.dev/icons?i=php,js,html,css,mysql,cs,unity" />
+    <img src="https://skillicons.dev/icons?i=cs,unity,js,html,css,mysql,php" />
 </div>
 <br>
 <br>
